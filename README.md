@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - **Development Tools:** Visual Studio Code, Jupyter Notebooks, Google Colab, Replit, CodePen
 - **Version Control:** Git, GitHub
 <!-- git hub stats card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia175&show_icons=true&theme=rose)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia175&show_icons=true&theme=rose) -->
 
 <!-- git hub readme card 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucia175&show_icons=true&theme=midnight-purple&repo=github-readme-stats)](https://github.com/lucia175/github-readme-stats)
