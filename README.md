@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Tech Stack
-- **Programming Languages:** Python, Java, C, HTML, CSS, JavaScript
+- **Programming Languages:** Python, Java, C, HTML, CSS, JavaScript, Flutter, Kotlin, GO, Dart
 - **Libraries & Frameworks:** sci-kit-learn, Pandas, NumPy, matplotlib, React
-- **Development Tools:** Visual Studio Code, Jupyter Notebooks, Google Colab, Replit, CodePen
-- **Version Control:** Git, GitHub
+- **Development Tools:** Visual Studio Code, Jupyter Notebooks, Android Studio, Unity, Google Colab, Replit, CodePen, IntelliJ
+- **Version Control:** Git, GitHub, Linux
 <!-- git hub stats card -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia175&show_icons=true&theme=rose) -->
 
